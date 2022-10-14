@@ -1,0 +1,7 @@
+{
+  "workbench.settings.editor": "json",
+  "code-runner.executorMap": {
+    "javascript": "node",
+    "typescript": "clear && npx ts-node --files --transpile-only"
+  }
+}
